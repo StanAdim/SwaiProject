@@ -1,0 +1,8 @@
+#adminDrop{background-color: #2d3540;}
+#thdOpp{background-color: #e4e7f9; color: black}
+#adminDrop>.dropdown-item:hover{background-color: #a4b8dc;}
+#adminDrop>.dropdown-item>a{color: #dce1e4;}
+#adminDrop>.dropdown-item>a:hover{color: black;}
+#tablesHeader{color: black;background-color: #b4b6c7;}
+#admin{color: #f6fcff;text-decoration:none;}
+#admin:hover{color: #dda12f;}
